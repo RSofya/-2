@@ -1,0 +1,67 @@
+[
+
+    {
+        "id": "1",
+        "title": "Бараш",
+        "description": "Поэт",
+        "price": 450,
+        "img": "барашм.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Ежик",
+        "description": "Коллекционер, ботаник",
+        "price": 450,
+        "img": "ежикмг.jpeg"
+      },
+      {
+        "id": "3",
+        "title": "Кар-Карыч",
+        "description": "Путешественник, музыкант",
+        "price": 450,
+        "img": "карычм.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Копатыч",
+        "description": "Огородник",
+        "price": 450,
+        "img": "копатычмг.jpg"
+      }
+      ,
+      {
+        "id": "5",
+        "title": "Крош",
+        "description": "Спортсмен",
+        "price": 450,
+        "img": "крошм.jpg"
+      },
+      {
+        "id": "6",
+        "title": "Лосяш",
+        "description": "Ученый",
+        "price": 450,
+        "img": "лосяшм.jpg"
+      },
+      {
+        "id": "7",
+        "title": "Нюша",
+        "description": "Модница",
+        "price": 450,
+        "img": "нюшам.jpg"
+      },
+      {
+        "id": "8",
+        "title": "Пин",
+        "description": "Изобретатель",
+        "price": 450,
+        "img": "пинмг.jpg"
+      },
+      {
+          "id": "9",
+          "title": "Совунья",
+          "description": "Врач, путешественница",
+          "price": 450,
+          "img": "совамг.jpg"
+        }
+    ]
